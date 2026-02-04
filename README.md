@@ -1,4 +1,4 @@
-                                                                                  🏠 House Price Prediction using Machine Learning
+ 🏠 House Price Prediction using Machine Learning
 
 
 📌 Project Overview
@@ -20,33 +20,34 @@ Target variable: SalePrice
 
 🛠️ Technologies Used
 Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
+Pandas, NumPy,
+Matplotlib, Seaborn,
+Scikit-learn,
 Jupyter Notebook (Anaconda)
 
 ⚙️ Project Workflow
-Data loading and exploration
-Handling missing values
-Encoding categorical features
-Feature scaling
-Train-test split
-Model training
-Model evaluation
-Model comparison
+Data loading and exploration,
+Handling missing values,
+Encoding categorical features,
+Feature scaling,
+Train-test split,
+Model training,
+Model evaluation,
+Model comparison,
 Feature importance analysis
 
 🤖 Models Implemented
-Linear Regression (Baseline Model)
+Linear Regression (Baseline Model),
 Random Forest Regressor (Final Model)
 
 📈 Model Evaluation Metrics
-Mean Absolute Error (MAE)
-Root Mean Squared Error (RMSE)
+Mean Absolute Error (MAE),
+Root Mean Squared Error (RMSE),
 R² Score
+
 Performance Summary
-Model	R² Score
-Linear Regression	Lower
-Random Forest	Higher
+  Model	R²        Score
+Linear Regression--	Lower
+Random Forest	--Higher
 
 📌 Random Forest outperformed Linear Regression with better accuracy and lower error.
